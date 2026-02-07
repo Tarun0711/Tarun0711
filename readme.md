@@ -90,7 +90,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarun0711&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Tarun0711&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
