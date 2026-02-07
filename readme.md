@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun0711&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarun0711&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=Tarun0711&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun0711&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
